@@ -1,0 +1,49 @@
+body {
+  font-family: "Helvetica", sans-serif;
+  margin: 0;
+  padding: 0;
+  line-height: 1.6;
+  background: #f9f9f9;
+  color: #333;
+}
+
+header {
+  background-color: #3b5998;
+  color: #fff;
+  padding: 1em;
+  text-align: center;
+}
+
+main {
+  padding: 2em;
+}
+
+.image-section {
+  text-align: center;
+  margin-bottom: 1em;
+}
+
+.caption {
+  font-size: 0.9em;
+  color: #666;
+}
+
+.info-section ul {
+  list-style: none;
+  padding: 0;
+}
+
+.info-section li {
+  margin: 0.5em 0;
+}
+
+.rank {
+  font-weight: bold;
+  padding: 0.2em 0.6em;
+  border-radius: 5px;
+  color: white;
+}
+
+.rank-b {
+  background-color: #f39c12;
+}
